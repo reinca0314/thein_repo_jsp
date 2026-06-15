@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+/Users/kodongwu/Documents/thein_repo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3721166908.index
+/day1/src/main/java

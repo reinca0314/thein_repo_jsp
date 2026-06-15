@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Proj_0612_javadb.DBconnetion&apos; to &apos;DBconnection&apos;&#x0A;- Original project: &apos;Jaja-db&apos;&#x0A;- Original element: &apos;Proj_0612_javadb.DBconnetion&apos;&#x0A;- Renamed element: &apos;Proj_0612_javadb.DBconnection&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DBconnetion&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Proj_0612_javadb{DBconnetion.java[DBconnetion" matchStrategy="1" name="DBconnection" qualified="false" references="true" similarDeclarations="false" stamp="1781233402483" textual="false" version="1.0"/>
+</session>
