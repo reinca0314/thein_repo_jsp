@@ -1,3 +1,0 @@
-select current_database();
-
-select * from golf_teacher;
