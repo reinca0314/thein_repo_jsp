@@ -1,8 +1,0 @@
-<header class="pb-3 mb-4 border-bottom">
-	<a href=" ./welcome.jsp" class = "d-flex align-items-center text-dark text-decoration-none">
-		<div>
-			<i class="fa-brands fa-500px" style="font-size: 32px"></i>
-		</div>
-		<span class="fs-4">Home</span>
-	</a>
-</header>

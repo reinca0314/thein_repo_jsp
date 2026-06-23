@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/apache-tomcat-10.1.55 at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="apache-tomcat-10.1.55 at localhost" name="apache-tomcat-10.1.55 at localhost" runtime-id="_Users_kodongwu_Downloads_apache-tomcat-10.1.55" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="8">
-    <list key="modules" value0="day1::org.eclipse.jst.jee.server:day1::jst.web::6.0" value1="day2::org.eclipse.jst.jee.server:day2::jst.web::6.0"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/apache-tomcat-10.1.55 at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="apache-tomcat-10.1.55 at localhost" name="apache-tomcat-10.1.55 at localhost" runtime-id="_Users_kodongwu_Downloads_apache-tomcat-10.1.55" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="11">
+    <list key="modules" value0="day1::org.eclipse.jst.jee.server:day1::jst.web::6.0" value1="day2::org.eclipse.jst.jee.server:day2::jst.web::6.0" value2="point::org.eclipse.jst.jee.server:point::jst.web::6.0" value3="day3::org.eclipse.jst.jee.server:day3::jst.web::6.0" value4="exam::org.eclipse.jst.jee.server:exam::jst.web::6.0"/>
   </server>
 </servers>
