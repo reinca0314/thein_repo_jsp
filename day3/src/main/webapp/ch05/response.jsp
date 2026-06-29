@@ -7,6 +7,7 @@
     <%
         out.println("Hello!"); 
         out.println("Jakarta Server Pages 입니다.");
+        response.sendRedirect("http://www.google.com");
     %>
 </body>
 </html>
